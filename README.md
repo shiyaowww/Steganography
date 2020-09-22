@@ -34,5 +34,5 @@ because we never subtract from an even number, so we’d never subtract from 0 (
 invalid -1 color attribute), and we never add to an odd number, so we’d never add to 255 (which would result in
 an invalid 256 color attribute).
 
-####An example:
+#### An example:
 
