@@ -35,3 +35,4 @@ invalid -1 color attribute), and we never add to an odd number, so we’d never 
 an invalid 256 color attribute).
 
 #### An example:
+!(https://github.com/shiyaowww/Steganography/blob/master/pictures/encode.png) 
